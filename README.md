@@ -1,7 +1,7 @@
 # Udacity_Write_A_Data_Science_Blog_Post
 Udacity Data Science nanodegree - blog post project
 
-#Project Motivation
+# Project Motivation
 This project - Write a Data Science Blog Post - is part of the Udacity Data Science Nanodegree.
 
 I used data from the Stack OVerflow 2017 Annual Developer Surey to investigate the below questions:
@@ -10,15 +10,15 @@ I used data from the Stack OVerflow 2017 Annual Developer Surey to investigate t
 3 - Was there bias involved in their suggestions
 
 
-#Installation and libraries
+# Installation and libraries
 The anaconda disribution of Python should suffice.
 See libraries listed below:
 
-#Results
+# Results
 My findings can be found at the post available here
 
-#File Descriptions
+# File Descriptions
 
-#Acknowledgments
+# Acknowledgments
 data: from Stack Overflow here
 
