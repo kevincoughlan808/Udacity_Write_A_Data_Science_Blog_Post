@@ -6,8 +6,8 @@ This project - Write a Data Science Blog Post - is part of the Udacity Data Scie
 
 I used data from the Stack OVerflow 2017 Annual Developer Surey to investigate the below questions:
 1 - How do they reccomend breaking into the field
-2 - How do the various methods of entering the field relate to Salary and Job Satisfaction?
-3 - Was there bias involved in their suggestions, specifically hehre focusing on the ParentEducation column. 
+2 - Was there bias involved in their suggestions, specifically hehre focusing on the ParentEducation column. 
+3 - what are the main tool languages that those in the profession have and use?
 
 
 # Installation and libraries
