@@ -19,11 +19,11 @@ My findings can be found in more detail at the post available here
 # Installation and libraries
 The anaconda disribution of Python should suffice.  
 See libraries listed below:
-NumPy
-Pandas
-MatPlotLib
-defaultdict
-math
+NumPy  
+Pandas  
+MatPlotLib  
+defaultdict  
+math  
 
 # File Descriptions
 README.md - readme file  
