@@ -14,7 +14,7 @@ I used data from the Stack OVerflow 2017 Annual Developer Surey to investigate t
 2 - Those whose parents had completed higher edcation were ~33% more likely to recommend a master's degree to enter the field  
 3 - Java, Javascript, C and SQL all had >10% use by professional developers  
 
-My findings can be found in more detail at the post available here
+My findings can be found in more detail at the post available [here](https://medium.com/@kevin.a.coughlan/navigating-the-software-development-realm-is-a-postgraduate-degree-your-north-star-7ad0f7620ec0)
 
 # Installation and libraries
 The anaconda disribution of Python should suffice.  
