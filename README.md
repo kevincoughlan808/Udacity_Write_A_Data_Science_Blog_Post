@@ -27,8 +27,8 @@ math
 
 # File Descriptions
 README.md - readme file  
-Stack_overflow_survey_code.ipynb  
-
+stack_overflow_survey_code.ipynb - main code file   
+survey_results_public.zip - source data and schema  
 
 # Acknowledgments
 data: from Stack Overflow [here](https://www.kaggle.com/datasets/stackoverflow/so-survey-2017)
